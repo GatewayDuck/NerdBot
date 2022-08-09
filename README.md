@@ -14,3 +14,8 @@ Go to https://discord.com/developers/applications
 Then enable this
 
 ![image](https://user-images.githubusercontent.com/88541634/183689238-1f5209c5-e34a-4c50-95aa-9e9fa59a29af.png)
+
+
+Then reset the token, copy it and put it in config.json
+
+![image](https://user-images.githubusercontent.com/88541634/183689607-5bb02383-c11e-49ef-ad43-e98a4d3f23bb.png)
